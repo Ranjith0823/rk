@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(251, 251, 252);
+    margin: 0px;
+    font-family:Papyrus,fantasy;
+   
+}
+h1{
+    margin-top: 0;
+    position: relative;
+    top: 100px;
+}
+.one-h3{
+    position: relative;
+    top: 110px;
+    left: 725px;
+
+}
+.two-h3{
+    margin-top: 0;
+    position: relative;
+    top: 10px;
+}
+.sub{
+    position: relative;
+    left: 700px;
+}
+.one-p{
+    position: relative;
+    left:550px
+    ;
+}
+p{
+    position: relative;
+    top :100px;
+}
+.top-container{
+    background-color: rgb(205, 233, 253);
+    height: 500px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.middle-container{
+    background-color:rgb(245, 205, 250);
+    height: 300px;
+    
+}
+.bottom-container{
+    background-color: rgb(197, 197, 254);
+    height: 300px;
+}
+
+.cloud1{
+    position: absolute;
+    left: 500px;
+
+}
+.cloud2{
+position: relative;
+left: 1000px;
+bottom: 300px;
+}
+/*
+.mount{
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
+*/
+div{
+    position: relative;
+}
+.ranjith{
+    position: absolute;
+    right: 700px;
+    top: 10px;
+}
